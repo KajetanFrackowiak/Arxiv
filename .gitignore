@@ -1,0 +1,10 @@
+# Ignore configuration directories and files
+/.idea
+
+# Ignore Python cache files
+/__pycache__/
+/*.pyc
+
+# Ignore sensitive credentials and tokens
+credential_key.json
+token.json
